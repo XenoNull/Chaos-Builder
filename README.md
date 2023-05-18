@@ -2,7 +2,7 @@
 
 ## apaan nih?
 
-ini adalah Sourcecode Chaos ransomware builder.
+ini adalah Source code Chaos ransomware builder.
 
 FYI: ini bukan buatan gw,tapi gw ngedapetin source codenya
 
